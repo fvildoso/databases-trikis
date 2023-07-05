@@ -15,20 +15,20 @@ requerimientos para ejecutar el proyecto.
 
 1. Clonar el repositorio de "databases-trikis":
 
-```
-git clone https://github.com/fvildoso/databases-trikis
-```
+    ```
+    git clone https://github.com/fvildoso/databases-trikis
+    ```
 2. Accede al directorio del proyecto:
-```
-cd databases-trikis
-```
+    ```
+    cd databases-trikis
+    ```
 3. Crear un entorno virtual con alguna de las siguientes opciones: 
    - Se recomienda hacerlo en PyCharm, ya que el proceso es automático.
    - Manual
       1. Crear el entorno virtual.
-      ```
-      python -m venv venv
-      ```
+          ```
+          python -m venv venv
+          ```
     
       2. Activar el entorno virtual:
          - En Windows:
