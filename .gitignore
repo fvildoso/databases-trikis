@@ -1,0 +1,24 @@
+# Carpeta de entorno virtual
+venv/
+
+# Archivos de caché de PyCharm
+.idea/
+
+# Archivos de configuración de PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Carpeta de registros de PyCharm
+/log/
+
+# Archivos de respaldo y temporales
+*~
+.DS_Store
+
+/.env
