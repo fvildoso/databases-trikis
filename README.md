@@ -37,7 +37,7 @@ requerimientos para ejecutar el proyecto.
          ```
          - En Linux/macOS:
          ```
-         - source venv/bin/activate
+         source venv/bin/activate
          ```
 
 4. Instala las dependencias requeridas:
